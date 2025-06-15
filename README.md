@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupucharm)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=cupucharm&theme=vue&show_icons=true"/></a>
