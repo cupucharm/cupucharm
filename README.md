@@ -25,10 +25,10 @@
     
 </div>
 
-### DevOps
+<!--### DevOps
 <div display="flex">
  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
-</div>
+</div> -->
 
 ### Communication & Memo
 <div display="flex">
