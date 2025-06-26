@@ -1,6 +1,7 @@
 ## 🐯 Hello World
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=cupucharm&theme=highcontrast)](https://git.io/streak-stats)-->
+My name is Choi Sujin 👊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupucharm&layout=compact)](https://github.com/cupucharm/github-readme-stats)
 
